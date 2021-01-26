@@ -40,7 +40,7 @@
 #define DIRPIN2                   6
 
 #define PWMFREQ                   40000
-#define MAX_TORQUE                0.123
+#define MAX_TORQUE                3.0
 #define PWM_OUTPUT_RESOLUTION     1023
 
 
